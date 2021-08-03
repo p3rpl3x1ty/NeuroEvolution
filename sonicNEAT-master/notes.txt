@@ -1,0 +1,5 @@
+# Location of Roms
+/home/p3rpl3x1ty/anaconda3/lib/python3.8/site-packages/retro/data/stable/
+
+# Needed to install gym-retro from source
+sudo apt-get update && sudo apt-get install build-essential
